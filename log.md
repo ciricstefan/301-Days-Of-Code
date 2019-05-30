@@ -34,3 +34,16 @@ The daily log of my **#301DaysOfCode** challenge.
 [Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) // 
 [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) // 
 [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+
+
+### Day 4: May 30, 2019
+
+**Today's Progress**: I've built 2 projects. One is Mark Zuckerberg Tribute page. And the other is freeCodeCamp Survey form.
+
+**Thoughts:** Choosing colors for the page seems much harder than I expected... So many choices!
+
+**Link to tweet:** [Fourth day tweet](https://twitter.com/csstefan/status/1134212810232274944)
+
+**Link to sections** 
+[Mark Zuckerberg Tribute page](https://ciricstefan.github.io/fcc-tribute-page/) // 
+[freeCodeCamp Survey form](https://ciricstefan.github.io/fcc-survey-form/)
