@@ -47,3 +47,14 @@ The daily log of my **#301DaysOfCode** challenge.
 **Link to sections** 
 [Mark Zuckerberg Tribute page](https://ciricstefan.github.io/fcc-tribute-page/) // 
 [freeCodeCamp Survey form](https://ciricstefan.github.io/fcc-survey-form/)
+
+
+### Day 5: May 31, 2019
+
+**Today's Progress**: Started working on Product Landing Page and finished Basic JS section on freeCodeCamp
+
+**Link to tweet:** [Fifth day tweet](https://twitter.com/csstefan/status/1134574970196176897)
+
+**Link to sections** 
+[Product Landing Page](https://ciricstefan.github.io/fcc-landing-page/) // 
+[Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
