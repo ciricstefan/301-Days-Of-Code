@@ -70,3 +70,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to sections** 
 [Product Landing Page](https://ciricstefan.github.io/fcc-landing-page/)
+
+
+### Day 7: June 03, 2019
+
+**Today's Progress**: Went over Bootstrap and jQuery section on freeCodeCamp
+
+**Link to tweet:** [7th day tweet](https://twitter.com/csstefan/status/1135662822908710918)
+
+**Link to sections** 
+[Bootstrap](https://learn.freecodecamp.org/front-end-libraries/bootstrap) // 
+[jQuery](https://learn.freecodecamp.org/front-end-libraries/jquery)
