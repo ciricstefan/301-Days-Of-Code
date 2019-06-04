@@ -81,3 +81,14 @@ The daily log of my **#301DaysOfCode** challenge.
 **Link to sections** 
 [Bootstrap](https://learn.freecodecamp.org/front-end-libraries/bootstrap) // 
 [jQuery](https://learn.freecodecamp.org/front-end-libraries/jquery)
+
+
+### Day 8: June 04, 2019
+
+**Today's Progress**: Built Technical Documentation Page for freeCodeCamp course and received Responsive Web Design Certification!
+
+**Link to tweet:** [8th day tweet](https://twitter.com/csstefan/status/1135992691051962370)
+
+**Link to sections** 
+[Technical Documentation Page](https://ciricstefan.github.io/fcc-technical-documentation-page/) // 
+[Responsive Web Design Certification](https://www.freecodecamp.org/certification/ciricstefan/responsive-web-design)
