@@ -92,3 +92,14 @@ The daily log of my **#301DaysOfCode** challenge.
 **Link to sections** 
 [Technical Documentation Page](https://ciricstefan.github.io/fcc-technical-documentation-page/) // 
 [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ciricstefan/responsive-web-design)
+
+
+### Day 9: June 05, 2019
+
+**Today's Progress**: I've gone through ES6 and Regular Expressions sections on freeCodeCamp
+
+**Link to tweet:** [9th day tweet](https://twitter.com/csstefan/status/1136389309668503554)
+
+**Link to sections** 
+[ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) // 
+[Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/)
