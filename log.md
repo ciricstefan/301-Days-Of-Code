@@ -103,3 +103,15 @@ The daily log of my **#301DaysOfCode** challenge.
 **Link to sections** 
 [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) // 
 [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/)
+
+
+### Day 10: June 06, 2019
+
+**Today's Progress**: I've finished Debugging, Basic Data Structures and Basic Algorithm Scripting sections on freeCodeCamp
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1136751069185396736)
+
+**Link to sections** 
+[Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging) // 
+[Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) // 
+[Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
