@@ -115,3 +115,13 @@ The daily log of my **#301DaysOfCode** challenge.
 [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging) // 
 [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) // 
 [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+
+### Day 11: June 08, 2019
+
+**Today's Progress**: I've finished Object Oriented Programming section on freeCodeCamp
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1137442849916706816)
+
+**Link to sections** 
+[Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
