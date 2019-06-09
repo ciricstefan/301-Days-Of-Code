@@ -125,3 +125,13 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to sections** 
 [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+
+### Day 12: June 09, 2019
+
+**Today's Progress**: I've finished Functional Programming section on freeCodeCamp and started working on Intermediate Algorithm challenges
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1137815653866442760)
+
+**Link to sections** 
+[Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
