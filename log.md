@@ -135,3 +135,14 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to sections** 
 [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+
+
+### Day 13: June 10, 2019
+
+**Today's Progress**: Finished JS Intermediate Algorithm challenges and received JavaScript Algorithms and Data Structures Certification!
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1138212242892177409)
+
+**Link to sections** 
+[Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) // 
+[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ciricstefan/javascript-algorithms-and-data-structures)
