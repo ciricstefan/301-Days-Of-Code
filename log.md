@@ -146,3 +146,14 @@ The daily log of my **#301DaysOfCode** challenge.
 **Link to sections** 
 [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) // 
 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ciricstefan/javascript-algorithms-and-data-structures)
+
+
+### Day 14: June 11, 2019
+
+**Today's Progress**: Finished SASS section on freeCodeCamp and watched React course by Ryan Johnson on Skillshare
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1138552169496567808)
+
+**Link to sections** 
+[Sass](https://learn.freecodecamp.org/front-end-libraries/sass) // 
+[React for Beginners: Build an App, and Learn the Fundamentals](skl.sh/31pFA8q )
