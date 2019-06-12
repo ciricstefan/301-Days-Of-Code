@@ -157,3 +157,18 @@ The daily log of my **#301DaysOfCode** challenge.
 **Link to sections** 
 [Sass](https://learn.freecodecamp.org/front-end-libraries/sass) // 
 [React for Beginners: Build an App, and Learn the Fundamentals](skl.sh/31pFA8q )
+
+
+### Day 15: June 12, 2019
+
+**Today's Progress**: Today I learned how to:
+                        - Create JSX elements
+                        - Create a Stateless Functional Component
+                        - Create a Component using ES6 class syntax
+                        - Compose Components together
+                        - Render Components using ReactDOM.render() method
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1138869558637486082)
+
+**Link to sections** 
+[React](https://learn.freecodecamp.org/front-end-libraries/react)
