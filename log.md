@@ -189,3 +189,13 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to sections** 
 [React](https://learn.freecodecamp.org/front-end-libraries/react)
+
+
+### Day 17: June 14, 2019
+
+**Today's Progress**: I went over official React Tutorial: Intro to React(building small tic tac toe game). And got a better grasp of fundamentals and common techniques in React development.
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1139650118288908293)
+
+**Link to sections** 
+[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
