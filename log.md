@@ -209,3 +209,10 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to sections** 
 [React](https://learn.freecodecamp.org/front-end-libraries/react)
+
+
+### Day 19: June 17, 2019
+
+**Today's Progress**: Practiced CSS Grid and Flexbox a little bit more
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1140728585583550470)
