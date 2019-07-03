@@ -216,3 +216,13 @@ The daily log of my **#301DaysOfCode** challenge.
 **Today's Progress**: Practiced CSS Grid and Flexbox a little bit more
 
 **Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1140728585583550470)
+
+
+### Day 20: July 03, 2019
+
+**Today's Progress**: Started following React tutorial to build an e-commerce website
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1146517808743886849)
+
+**Link to tutorial** 
+[Tutorial](https://www.youtube.com/watch?v=wPQ1-33teR4)
