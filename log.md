@@ -226,3 +226,17 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to tutorial** 
 [Tutorial](https://www.youtube.com/watch?v=wPQ1-33teR4)
+
+
+### Day 21: July 04, 2019
+
+**Today's Progress**: Today I learned how to use:
+
+                        - basic React Router
+                        - styled-components
+                        - context API
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1146815345325498368)
+
+**Link to tutorial** 
+[Tutorial](https://www.youtube.com/watch?v=wPQ1-33teR4)
