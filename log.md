@@ -240,3 +240,18 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to tutorial** 
 [Tutorial](https://www.youtube.com/watch?v=wPQ1-33teR4)
+
+
+### Day 22-27: July 08 - July 13, 2019
+
+**Progress**: 
+
+                  - finished react e-commerce tutorial that I was following
+                  - redesigned my portfolio website
+                  - finished react and redux section on freeCodeCamp
+                  
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1150065239020449794)
+
+**Link to tutorial** 
+[Tutorial](https://www.youtube.com/watch?v=wPQ1-33teR4)
+[Portfolio Website](https://ciricstefan.github.io/)
