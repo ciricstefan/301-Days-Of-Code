@@ -265,3 +265,13 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to tutorial** 
 [Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
+
+
+### Day 29: July 15, 2019
+
+**Today's Progress**: Finished Random Quote Machine project for freeCodeCamp
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1150859873854328834)
+
+**Link to tutorial** 
+[Project](https://ciricstefan.github.io/react-random-quote-app/)
