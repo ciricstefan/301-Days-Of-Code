@@ -275,3 +275,13 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to tutorial** 
 [Project](https://ciricstefan.github.io/react-random-quote-app/)
+
+
+### Day 30: July 16, 2019
+
+**Today's Progress**: Went over Sass and BEM tutorials. Will rewrite projects I've done to use Sass and BEM methodology.
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1151223735770238976)
+
+**Link to tutorial** 
+[The Net Ninja Sass Tutorial](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA/)
