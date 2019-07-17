@@ -285,3 +285,13 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to tutorial** 
 [The Net Ninja Sass Tutorial](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA/)
+
+
+### Day 31: July 17, 2019
+
+**Today's Progress**: Started working on Markdown Previewer project
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1151577544484904960)
+
+**Link to tutorial** 
+[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
