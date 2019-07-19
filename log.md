@@ -267,16 +267,6 @@ The daily log of my **#301DaysOfCode** challenge.
 [Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
 
 
-### Day 32: July 18, 2019
-
-**Today's Progress**: Finished coding challenges and applied for Microverse Full Time Program, worked on Markdown Previewer project
-
-**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1151966968087535616)
-
-**Link to tutorial** 
-[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
-[Microverse](https://www.microverse.org/)
-
 ### Day 29: July 15, 2019
 
 **Today's Progress**: Finished Random Quote Machine project for freeCodeCamp
@@ -302,6 +292,27 @@ The daily log of my **#301DaysOfCode** challenge.
 **Today's Progress**: Started working on Markdown Previewer project
 
 **Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1151577544484904960)
+
+**Link to tutorial** 
+[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+
+### Day 32: July 18, 2019
+
+**Today's Progress**: Finished coding challenges and applied for Microverse Full Time Program, worked on Markdown Previewer project
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1151966968087535616)
+
+**Link to tutorial** 
+[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+[Microverse](https://www.microverse.org/)
+
+
+### Day 33: July 19, 2019
+
+**Today's Progress**: Finished all of the functionality on Markdown Previewer project
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1152319996804182017)
 
 **Link to tutorial** 
 [Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
