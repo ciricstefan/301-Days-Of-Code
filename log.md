@@ -316,3 +316,13 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to tutorial** 
 [Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+
+### Day 34: July 20, 2019
+
+**Today's Progress**: Worked on styling Markdown Previewer project
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1152674963507286016)
+
+**Link to tutorial** 
+[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
