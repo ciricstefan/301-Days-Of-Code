@@ -326,3 +326,23 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to tutorial** 
 [Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+
+### Day 35: July 23, 2019
+
+**Today's Progress**: Finished first remote pair programming trial for Microverse application
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1153754219503128577)
+
+**Link to tutorial** 
+[Microverse School](https://www.microverse.org/)
+
+
+### Day 36: July 24, 2019
+
+**Today's Progress**: Finished last two remote pair programming trials for Microverse application
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1154127053379293187)
+
+**Link to tutorial** 
+[Microverse School](https://www.microverse.org/)
